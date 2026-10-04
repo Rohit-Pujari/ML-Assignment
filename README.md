@@ -2,7 +2,7 @@
 
 UE24CS352A Machine Learning, Mini-Project (Problem Statement #1)
 
-**Team:** [Name 1, SRN], [Name 2, SRN]  
+**Team:** [Rohit Pujari, PES1UG25CS836], [Sujan Anjankumar, PES1UG24CS632]  
 **Section:** [Section]
 
 ## Problem
