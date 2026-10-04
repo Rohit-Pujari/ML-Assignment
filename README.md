@@ -3,7 +3,6 @@
 UE24CS352A Machine Learning, Mini-Project (Problem Statement #1)
 
 **Team:** [Rohit Pujari, PES1UG25CS836], [Sujan Anjankumar, PES1UG24CS632]  
-**Section:** [Section]
 
 ## Problem
 Given the text of a hotel review, predict the user's sentiment for each aspect of the stay (Overall, Value, Rooms, Location, Cleanliness, Service), not just one overall score. Based on the Stanford CS229 (2016) report "Aspect-based Sentiment Analysis on Hotel Reviews".
