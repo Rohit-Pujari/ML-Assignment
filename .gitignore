@@ -1,0 +1,11 @@
+# data and trained model (too large for GitHub)
+*.dat
+*.joblib
+
+# environments and caches
+venv/
+ml312/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+out/
