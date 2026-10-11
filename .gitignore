@@ -1,6 +1,10 @@
 # data and trained model (too large for GitHub)
 *.dat
 *.joblib
+*.pt
+*.safetensors
+models/
+
 
 # environments and caches
 venv/
@@ -9,3 +13,7 @@ ml312/
 __pycache__/
 .ipynb_checkpoints/
 out/
+
+# csv files of metrics 
+*.csv
+!results/*.csv
